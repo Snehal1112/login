@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 100vh;
+
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14px;
+}
+
+body #root {
+  height: inherit;
+  text-decoration: none;
+}
